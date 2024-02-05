@@ -12,6 +12,12 @@ function App() {
         <MainDisplay />
         <ItemPreview />
         <MobileNavigation />
+        <div className="text-sm w-full text-center">
+          Coding Challenge by{" "}
+          <a href="https://www.frontendmentor.io/home" className="text-blue-700 underline">Frontend Mentor</a>
+          coded by: {" "}
+          <a href="https://portfolio.jaweki.com" className=" text-blue-700 underline">Jaweki and Ben Hurst</a>
+        </div>
       </div>
     </main>
   );
