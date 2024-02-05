@@ -6,7 +6,7 @@ function ItemDescription() {
     const {cart, addItemToCart, modifyCart} = useContext(AppContext);
 
   return (
-    <div className="lg:w-[35%] max-md:w-[50%] lg:mt-20 flex flex-col sm:gap-6 w-full max-sm:p-5 max-sm:gap-4">
+    <div className="lg:w-[35%] max-md:w-[50%] max-sm:w-full lg:mt-20 flex flex-col sm:gap-6 w-full max-sm:p-5 max-sm:gap-4">
         <span className="text-orange-500 text-md font-bold">{item.company.toUpperCase()}</span>
 
         <h1 className=" sm:text-4xl max-sm:text-3xl font-bold text-black">{item.name}</h1>
