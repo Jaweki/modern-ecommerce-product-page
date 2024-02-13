@@ -14,9 +14,11 @@ function App() {
         <MobileNavigation />
         <div className="text-sm w-full text-center">
           Coding Challenge by{" "}
-          <a href="https://www.frontendmentor.io/home" className="text-blue-700 underline">Frontend Mentor</a>
-          coded by: {" "}
-          <a href="https://portfolio.jaweki.com" className=" text-blue-700 underline">Jaweki and Ben Hurst</a>
+          <a href="https://www.frontendmentor.io/home" className="text-blue-700 underline" target="_blank" rel="noreferrer">Frontend Mentor</a>
+          coded by:
+          <a href="https://portfolio.jaweki.com" className=" text-blue-700 underline" target="_blank" rel="noreferrer">Jaweki</a>
+          and
+          <a href="https://www.linkedin.com/in/benhurst1" className=" text-blue-700 underline" target="_blank" rel="noreferrer">Ben Hurst</a>
         </div>
       </div>
     </main>
