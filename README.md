@@ -1,12 +1,3 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
 # Modern E-commerce Product Page - React.js Webpage - Frontend Mentor
 
 This repo is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). Built with React.js and bundle with Vite, this Javascript built web page is fully responsive on various screen sizes and mainly implements the Context API, to store global state of the cart. The app has mainly been styled using Tailwind CSS framework.
@@ -42,6 +33,11 @@ User should be able to:
 - View the cart and remove the items from it
 
 ### Screenshots
+
+![](./design/desktop-design.jpg)
+![](./design/active-states-lightbox.jpg)
+![](./design/mobile-design.jpg)
+![](./design/mobile-design-basket-filled.jpg)
 
 ### Links
 
