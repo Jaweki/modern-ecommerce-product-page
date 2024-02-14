@@ -21,6 +21,20 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ## Overview
 
+### Getting Started
+
+clone the repo to your machine and run:
+
+```npm
+npm run dev
+```
+
+or
+
+```
+yarn dev
+```
+
 ### The challenge
 
 User should be able to:
@@ -86,7 +100,7 @@ Ideas, of counter or exraborate thoughts on the projects are surely welcome, and
 
 This project was done to completion with team efforts of [Jack Weru Kioni](https://linkedin.com/in/jaweki-dekut) and [Ben Hurst](https://linkedin.com/in/benhurst1)
 
-Also to meet with Ben Hurst, a pair programming session was prepared by [Chingu](https://www.chingu.io/) a web developers forum, that helps in boost developer growth.
+Pair programming session was prepared by [Chingu](https://www.chingu.io/) a web developers forum, that helps in boost developer growth.
 Chingu organizes weekly planned pair programming session which developer enroll on weekly basis, and Voyagers which developers join in teams to do a much complex tasks.
 Chingu is free to Join and participate, and has some premium perks it offers, which are quite affordable. [see their website for more...](https://www.chingu.io/)
 
